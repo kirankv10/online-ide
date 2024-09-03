@@ -107,7 +107,7 @@ This guide can be used to understand the working operation and features of the F
 ![5](https://github.com/user-attachments/assets/938e33c8-c8b9-4d6b-9785-c3d51306fb91)
 <br>
 
-# 5.1 Mining modes 
+# 5.1 Mining modes
 * Auto-tuning of the miners. Overclocking and underclocking operation of the miners can be achieved using this section.
 * The user has the privilege to run the miner in three modes: <b> AUTO </b> ,<b> FIXED</b>  & <b> SLEEP</b> .
 *  <b> Auto mode </b>, there is an option to select a work mode i.e.,
