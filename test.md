@@ -107,7 +107,7 @@ This guide can be used to understand the working operation and features of the F
 ![5](https://github.com/user-attachments/assets/938e33c8-c8b9-4d6b-9785-c3d51306fb91)
 <br>
 
-## 5.1 Mining modes :
+# 5.1 Mining modes :
 * Auto-tuning of the miners. Overclocking and underclocking operation of the miners can be achieved using this section.
 * The user has the privilege to run the miner in three modes: <b> AUTO </b> ,<b> FIXED</b>  & <b> SLEEP</b> .
 *  <b> Auto mode </b>, there is an option to select a work mode i.e.,
@@ -132,7 +132,7 @@ This guide can be used to understand the working operation and features of the F
 
 ![image](https://github.com/user-attachments/assets/cd176811-dba4-4082-aee2-5b0fa13b34b0)
 
-## 5.2 Temperature and Fan Control:
+# 5.2 Temperature and Fan Control:
 * The fan speed and recommended chip temperature can be easily adjusted by the user.
 * There are three options for fan control:<br>
 <b>Auto (Air-Cooled):</b> This mode allows the user to configure the desired chip temperature at which the ASIC chips should operate, as well as the critical threshold temperature at which the chips should shut down.
@@ -151,7 +151,7 @@ Fans will adjust their speed based on the temperature accordingly.<br>
 ![8](https://github.com/user-attachments/assets/f6351571-3848-4d2e-b49c-41805f0b4dd1)
 
 
-## 5.3Hashboard Selection
+# 5.3Hashboard Selection
 * By disabling the hashboards that are not required/not healthy, the user can choose to operate the miner with healthy hashboards.
 * The user may choose which combination of hashboards to use for mining, as an alternative to employing all three.
 * This will be helpful when one or 2 hashboards are not performing well or if they are faulty and have gone for repair. Instead of having the miner in idle state, users can disable the disconnected hashboards and continue to mine with the working ones.
@@ -339,7 +339,7 @@ BRAINS , EPIC & OEM.
 
 ![hashboard mismatch](https://github.com/user-attachments/assets/293232ef-5150-4941-a393-88225921e364)
 
-## 16. Additional Document links 
+# 16. Additional Document links 
 * While the Control Board is not powering up, do follow the instructions mentioned in the following document link.
   [V3 CB Troubleshoot Document](V3CBtroubleshoot.md)
 
