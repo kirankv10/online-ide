@@ -5,7 +5,7 @@
 * [1. FCB Manual operations](#1-fcb-manual-operations)
 * [2. FCB Supported models](#2-fcb-supported-models)
 * [3. FCB Supported Miner Management Software](#3-fcb-supported-miner-management-software)
-* [4. LED Indications](#4-led-indications)
+* [4. LED Indications](#4-LED-Indications)
 * [5. Foundry Dashboard](#5-Foundry-Dashboard)
 * [5.1 Mining modes](#5.1-Mining-modes)
 * [5.2 Temperature and Fan Control](#5.2-Temperature-and-Fan-Control)
@@ -14,14 +14,14 @@
 * [7. Remote firmware Update](#7-Remote-firmware-Update	)
 * [8. Firmware Auto Update](#8-Firmware-Auto-Update-Firmware-Auto-Update)
 * [9.Reset Password](#9-Reset-Password)
-* [10. Network Settings](#10-led-indications)
+* [10. Network Settings](#10-Network-Settings)
 * [11. Advance Settings](#11-Advance-Settings)
-* [12. Throttle Mode](#12-led-indications)
+* [12. Throttle Mode](#12-Throttle-Mode)
 * [13. Control Board Swapping](#13-Control-Board-Swapping)
-* [14. Autotune Test Results](#14-led-indications)
+* [14. Autotune Test Results](#14-Autotune-Test-Results)
 * [15. Error Messages on DASHBOARD](#15-Error-Messages-on-DASHBOARD)
 * [16. Additional Document links](#16-Additional-Document-links)
-* [16. FAQ’s](#17-FAQ’s)
+* [17. FAQ’s](#17-FAQ’s)
 
 
 # 1. FCB Manual operations 
