@@ -12,7 +12,7 @@
 * [5.3 Hashboard Selection](#5.3-Hashboard-Selection)
 * [6. Troubleshooting with the help of detailed logs](#6-Troubleshooting-with-the-help-of-detailed-logs)
 * [7. Remote firmware Update](#7-Remote-firmware-Update	)
-* [8. Firmware Auto Update](#8-Firmware-Auto-Update-Firmware-Auto-Update)
+* [8. Firmware Auto Update](#8-Firmware-Auto-Update)
 * [9.Reset Password](#9-Reset-Password)
 * [10. Network Settings](#10-Network-Settings)
 * [11. Advance Settings](#11-Advance-Settings)
