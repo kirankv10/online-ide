@@ -343,7 +343,7 @@ BRAINS , EPIC & OEM.
 * While the Control Board is not powering up, do follow the instructions mentioned in the following document link.
   [V3 CB Troubleshoot Document](V3CBtroubleshoot.md)
 
-## 17. FAQ'S
+# 17. FAQ'S
 Q : What is the firmware version that is running on the Control board? <br>
 A :The Firmware version is present on the bottom left corner of the dashboard.
 
