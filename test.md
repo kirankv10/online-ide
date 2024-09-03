@@ -21,7 +21,7 @@
 * [14. Autotune Test Results](#14-Autotune-Test-Results)
 * [15. Error Messages on DASHBOARD](#15-Error-Messages-on-DASHBOARD)
 * [16. Additional Document links](#16-Additional-Document-links)
-* [17. FAQ’s](#17-FAQ’s)
+* [17. FAQ’s](#17-FAQ’-s)
 
 
 # 1. FCB Manual operations 
