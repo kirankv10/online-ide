@@ -79,7 +79,7 @@ This guide can be used to understand the working operation and features of the F
 ![2](https://github.com/user-attachments/assets/0f219255-7b15-4774-a7ee-6f1f61499026)
 
 
-# 5.Foundry Dashboard
+# 5. Foundry Dashboard
 * The username and password are initially requested while accessing the dashboard.<br>
 
 ***Below fig shows the Login access popup to the dashboard***
@@ -107,7 +107,7 @@ This guide can be used to understand the working operation and features of the F
 ![5](https://github.com/user-attachments/assets/938e33c8-c8b9-4d6b-9785-c3d51306fb91)
 <br>
 
-# 5.1 Mining modes :
+# 5.1 Mining modes 
 * Auto-tuning of the miners. Overclocking and underclocking operation of the miners can be achieved using this section.
 * The user has the privilege to run the miner in three modes: <b> AUTO </b> ,<b> FIXED</b>  & <b> SLEEP</b> .
 *  <b> Auto mode </b>, there is an option to select a work mode i.e.,
@@ -132,7 +132,7 @@ This guide can be used to understand the working operation and features of the F
 
 ![image](https://github.com/user-attachments/assets/cd176811-dba4-4082-aee2-5b0fa13b34b0)
 
-# 5.2 Temperature and Fan Control:
+# 5.2 Temperature and Fan Control
 * The fan speed and recommended chip temperature can be easily adjusted by the user.
 * There are three options for fan control:<br>
 <b>Auto (Air-Cooled):</b> This mode allows the user to configure the desired chip temperature at which the ASIC chips should operate, as well as the critical threshold temperature at which the chips should shut down.
@@ -151,7 +151,7 @@ Fans will adjust their speed based on the temperature accordingly.<br>
 ![8](https://github.com/user-attachments/assets/f6351571-3848-4d2e-b49c-41805f0b4dd1)
 
 
-# 5.3Hashboard Selection
+# 5.3 Hashboard Selection
 * By disabling the hashboards that are not required/not healthy, the user can choose to operate the miner with healthy hashboards.
 * The user may choose which combination of hashboards to use for mining, as an alternative to employing all three.
 * This will be helpful when one or 2 hashboards are not performing well or if they are faulty and have gone for repair. Instead of having the miner in idle state, users can disable the disconnected hashboards and continue to mine with the working ones.
@@ -184,7 +184,7 @@ Fans will adjust their speed based on the temperature accordingly.<br>
 
 
 
-# 8.Firmware Auto Update
+# 8. Firmware Auto Update
 * In the default settings, Auto update feature will be OFF.
 * Users have the provision to upgrade to the latest firmware without manually uploading any file by themself.
 
@@ -192,7 +192,7 @@ Fans will adjust their speed based on the temperature accordingly.<br>
 
 ![AutoUpdate](https://github.com/user-attachments/assets/21102b48-56bf-402e-8f57-02e3cbe5d029)
 
-# 9.Reset Password
+# 9. Reset Password
 * By default, the username and password for all the miners is : <br>
 Username: <b> root </b> <br>
 Password: <b> root </b> <br>
@@ -214,7 +214,7 @@ Password: <b> root </b> <br>
 ![NetworkSettings](https://github.com/user-attachments/assets/5ebdeb8a-e15b-4372-ba3b-90d1fa5ac7b4)
 
 
-# 11.Advance Settings
+# 11. Advance Settings
 * Under the Advance Settings we do have three sub categories present.<br>
 * <b> Restart Mining if Hashrate is lower(%) : </b> </br>
 - The percentage in numbers below which the expected hashrate value is not considerable can be entered by the user. The system restarts when the value falls below that threshold. Users can also set the max restart attempts at which the miner should restart when the required hashrate is not generated.<br>
@@ -246,7 +246,7 @@ Password: <b> root </b> <br>
 ![minfans](https://github.com/user-attachments/assets/7714fb91-b400-45b2-84b6-692b8b43a33b)
 
 
-# 9. Throttle Mode
+# 12. Throttle Mode
 * The miner enters into a throttle mode when the miner reaches 96% of the critical temperature set.
 
 
